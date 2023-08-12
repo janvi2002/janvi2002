@@ -2,6 +2,7 @@
 - 🌱 I am embarking on a journey to become a front-end developer.
 - 💞️ I’m looking to collaborate on learning together.
 - 📫 email- janvi20gurjar@gmail.com
+- leetcode -https://leetcode.com/Janvigurjar/
 ## 🚀 Languages and Tools:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=janvi2002&show_icons=true&theme=radical)
