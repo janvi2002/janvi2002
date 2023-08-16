@@ -1,7 +1,7 @@
 # Hello!<img src="https://media.giphy.com/media/PhE9yZiXP0tGgK3vcP/giphy.gif" width="60">
 
 - 👋 Hi, I’m Janvi
-- ⚡I’m currently learning Data Structures and Algorithms.
+- ⚡I am actively expanding my knowledge by studying Next.js, React.js, and Data Structures and Algorithms.
 - 🌱I am starting my journey towards becoming a front-end developer.
 - 💞️I’m looking to collaborate on learning together.
 - 👯 <a href ="https://leetcode.com/Janvigurjar/">Leetcode</a>
